@@ -1,0 +1,15 @@
+C:\Users\Pâmela\LucasAlves\OJantarDosFilosofos\O-Jantar-dos-Fil-sofos\JantarDosFilosofos\obj\Debug\net9.0\JantarDosFilosofos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pâmela\LucasAlves\OJantarDosFilosofos\O-Jantar-dos-Fil-sofos\JantarDosFilosofos\obj\Debug\net9.0\JantarDosFilosofos.AssemblyInfoInputs.cache
+C:\Users\Pâmela\LucasAlves\OJantarDosFilosofos\O-Jantar-dos-Fil-sofos\JantarDosFilosofos\obj\Debug\net9.0\JantarDosFilosofos.AssemblyInfo.cs
+C:\Users\Pâmela\LucasAlves\OJantarDosFilosofos\O-Jantar-dos-Fil-sofos\JantarDosFilosofos\obj\Debug\net9.0\JantarDosFilosofos.csproj.CoreCompileInputs.cache
+C:\Users\Pâmela\LucasAlves\OJantarDosFilosofos\O-Jantar-dos-Fil-sofos\JantarDosFilosofos\obj\Debug\net9.0\JantarDosFilosofos.sourcelink.json
+C:\Users\Pâmela\LucasAlves\OJantarDosFilosofos\O-Jantar-dos-Fil-sofos\JantarDosFilosofos\bin\Debug\net9.0\JantarDosFilosofos.exe
+C:\Users\Pâmela\LucasAlves\OJantarDosFilosofos\O-Jantar-dos-Fil-sofos\JantarDosFilosofos\bin\Debug\net9.0\JantarDosFilosofos.deps.json
+C:\Users\Pâmela\LucasAlves\OJantarDosFilosofos\O-Jantar-dos-Fil-sofos\JantarDosFilosofos\bin\Debug\net9.0\JantarDosFilosofos.runtimeconfig.json
+C:\Users\Pâmela\LucasAlves\OJantarDosFilosofos\O-Jantar-dos-Fil-sofos\JantarDosFilosofos\bin\Debug\net9.0\JantarDosFilosofos.dll
+C:\Users\Pâmela\LucasAlves\OJantarDosFilosofos\O-Jantar-dos-Fil-sofos\JantarDosFilosofos\bin\Debug\net9.0\JantarDosFilosofos.pdb
+C:\Users\Pâmela\LucasAlves\OJantarDosFilosofos\O-Jantar-dos-Fil-sofos\JantarDosFilosofos\obj\Debug\net9.0\JantarDosFilosofos.dll
+C:\Users\Pâmela\LucasAlves\OJantarDosFilosofos\O-Jantar-dos-Fil-sofos\JantarDosFilosofos\obj\Debug\net9.0\refint\JantarDosFilosofos.dll
+C:\Users\Pâmela\LucasAlves\OJantarDosFilosofos\O-Jantar-dos-Fil-sofos\JantarDosFilosofos\obj\Debug\net9.0\JantarDosFilosofos.pdb
+C:\Users\Pâmela\LucasAlves\OJantarDosFilosofos\O-Jantar-dos-Fil-sofos\JantarDosFilosofos\obj\Debug\net9.0\JantarDosFilosofos.genruntimeconfig.cache
+C:\Users\Pâmela\LucasAlves\OJantarDosFilosofos\O-Jantar-dos-Fil-sofos\JantarDosFilosofos\obj\Debug\net9.0\ref\JantarDosFilosofos.dll
